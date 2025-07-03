@@ -1,6 +1,5 @@
 # Meu nome é Jose Leal, Bem vindo!
 
-- 💻 Atuo na OI S/A
 - 😀 Apaixonado por tecnologia e inovação
 
 ##
